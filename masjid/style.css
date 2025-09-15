@@ -321,7 +321,7 @@ Image credits: unsplash.com
 	right:0;
 	bottom:0;
 	left:0;
-	background-image: url(/masjid/karawngn.jpg);
+	/*background-image: url(/masjid/karawngn.jpg);*/
 	opacity:0.05;
 }
 
@@ -666,4 +666,5 @@ Image credits: unsplash.com
 	font-style: italic;
 	position:relative;
 }
+
 
